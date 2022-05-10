@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ColeVibes
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me hmu
+# Hi there!
+- Full-Stack Coding Bootcamp (May 2022)
+- When not improving my coding skills I am an avid reader, writer and runner. 
+- HTML, CSS, JavaScript, Bootstrap, RESTful APIs, ode, Express, NoSql, MongoDB, Mongoose, React
+
 
 <!---
 ColeVibes/ColeVibes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
